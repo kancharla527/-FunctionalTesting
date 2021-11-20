@@ -1,1 +1,1 @@
-# -FunctionalTesting
+# For testing sample application
